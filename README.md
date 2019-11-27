@@ -1,4 +1,5 @@
-# Literature_query_download (around 2019/09)
+# Literature_query_download 
+2019/09/01
 Search papers by key words and query the content, data and other information.
 Search lieratures and get their metadate by Crossref API, then pass the url in metadata to scrawler in order to query content in html.
 Crossref API can be found in github
